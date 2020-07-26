@@ -13,7 +13,7 @@ body{
 }
 #main-header
 { 
-    background-image: url('../images/showcase.jpg');
+    background-image: url("showcase.jpg");
     background-position: center right;
     min-height: 200px;
 }
